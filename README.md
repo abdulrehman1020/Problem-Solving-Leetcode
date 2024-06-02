@@ -5,6 +5,7 @@
 # Array
 |  |
 | ------- |
+| [0587-erect-the-fence](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0587-erect-the-fence) |
 | [2447-merge-similar-items](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/2447-merge-similar-items) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
@@ -33,3 +34,11 @@
 |  |
 | ------- |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
+# Math
+|  |
+| ------- |
+| [0587-erect-the-fence](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0587-erect-the-fence) |
+# Geometry
+|  |
+| ------- |
+| [0587-erect-the-fence](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0587-erect-the-fence) |
