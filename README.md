@@ -12,6 +12,7 @@
 # Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0029-divide-two-integers) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 # String
 |  |
@@ -40,6 +41,7 @@
 # Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0029-divide-two-integers) |
 | [0587-erect-the-fence](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0587-erect-the-fence) |
 # Geometry
 |  |
