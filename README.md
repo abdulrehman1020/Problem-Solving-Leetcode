@@ -16,14 +16,17 @@
 # String
 |  |
 | ------- |
+| [0807-custom-sort-string](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0807-custom-sort-string) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/2819-remove-trailing-zeros-from-a-string) |
 # Hash Table
 |  |
 | ------- |
+| [0807-custom-sort-string](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0807-custom-sort-string) |
 | [2447-merge-similar-items](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/2447-merge-similar-items) |
 # Sorting
 |  |
 | ------- |
+| [0807-custom-sort-string](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0807-custom-sort-string) |
 | [2447-merge-similar-items](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/2447-merge-similar-items) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
 # Ordered Set
