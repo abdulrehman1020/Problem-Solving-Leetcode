@@ -5,6 +5,7 @@
 # Array
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0164-maximum-gap) |
 | [0587-erect-the-fence](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0587-erect-the-fence) |
 | [0772-construct-quad-tree](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0772-construct-quad-tree) |
 | [1835-decode-xored-permutation](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/1835-decode-xored-permutation) |
@@ -30,6 +31,7 @@
 # Sorting
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0164-maximum-gap) |
 | [0807-custom-sort-string](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0807-custom-sort-string) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2447-merge-similar-items](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/2447-merge-similar-items) |
@@ -74,3 +76,11 @@
 |  |
 | ------- |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+# Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0164-maximum-gap) |
+# Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0164-maximum-gap) |
