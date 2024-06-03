@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0164-maximum-gap) |
+| [0561-array-partition](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0561-array-partition) |
 | [0587-erect-the-fence](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0587-erect-the-fence) |
 | [0772-construct-quad-tree](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0772-construct-quad-tree) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
@@ -34,6 +35,7 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0164-maximum-gap) |
+| [0561-array-partition](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0561-array-partition) |
 | [0807-custom-sort-string](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0807-custom-sort-string) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -80,6 +82,7 @@
 # Greedy
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0561-array-partition) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 # Bucket Sort
 |  |
@@ -93,3 +96,7 @@
 |  |
 | ------- |
 | [0987-reveal-cards-in-increasing-order](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
+# Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0561-array-partition) |
