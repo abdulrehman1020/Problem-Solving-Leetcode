@@ -31,6 +31,7 @@
 |  |
 | ------- |
 | [0807-custom-sort-string](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0807-custom-sort-string) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2447-merge-similar-items](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/2447-merge-similar-items) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
 # Ordered Set
@@ -48,6 +49,7 @@
 | [0029-divide-two-integers](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0029-divide-two-integers) |
 | [0258-add-digits](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0258-add-digits) |
 | [0587-erect-the-fence](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0587-erect-the-fence) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 # Geometry
 |  |
 | ------- |
@@ -68,3 +70,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0258-add-digits) |
+# Greedy
+|  |
+| ------- |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
