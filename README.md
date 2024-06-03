@@ -46,6 +46,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0029-divide-two-integers) |
+| [0258-add-digits](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0258-add-digits) |
 | [0587-erect-the-fence](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0587-erect-the-fence) |
 # Geometry
 |  |
@@ -59,3 +60,11 @@
 |  |
 | ------- |
 | [0772-construct-quad-tree](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0772-construct-quad-tree) |
+# Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0258-add-digits) |
+# Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0258-add-digits) |
