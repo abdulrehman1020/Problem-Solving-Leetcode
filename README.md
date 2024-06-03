@@ -9,6 +9,7 @@
 | [0587-erect-the-fence](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0587-erect-the-fence) |
 | [0772-construct-quad-tree](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0772-construct-quad-tree) |
 | [1835-decode-xored-permutation](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/1835-decode-xored-permutation) |
+| [2355-maximum-consecutive-floors-without-special-floors](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/2355-maximum-consecutive-floors-without-special-floors) |
 | [2447-merge-similar-items](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/2447-merge-similar-items) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
@@ -34,6 +35,7 @@
 | [0164-maximum-gap](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0164-maximum-gap) |
 | [0807-custom-sort-string](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0807-custom-sort-string) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2355-maximum-consecutive-floors-without-special-floors](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/2355-maximum-consecutive-floors-without-special-floors) |
 | [2447-merge-similar-items](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/2447-merge-similar-items) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
 # Ordered Set
