@@ -100,3 +100,18 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0561-array-partition) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Hash Table
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+<!---LeetCode Topics End-->
