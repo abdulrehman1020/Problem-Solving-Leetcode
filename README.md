@@ -106,6 +106,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0217-contains-duplicate](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0217-contains-duplicate) |
 ## String
 |  |
 | ------- |
@@ -119,4 +120,12 @@
 |  |
 | ------- |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+## Array
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
