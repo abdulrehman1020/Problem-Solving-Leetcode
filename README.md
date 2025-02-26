@@ -108,6 +108,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0268-missing-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -126,6 +127,7 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0268-missing-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Sorting
 |  |
 | ------- |
