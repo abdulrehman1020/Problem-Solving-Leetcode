@@ -111,6 +111,7 @@
 | [0217-contains-duplicate](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## String
@@ -135,6 +136,7 @@
 | [0049-group-anagrams](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1395-minimum-time-visiting-all-points](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -145,6 +147,7 @@
 | [0217-contains-duplicate](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Math
 |  |
@@ -162,9 +165,26 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Geometry
 |  |
 | ------- |
 | [1395-minimum-time-visiting-all-points](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/1395-minimum-time-visiting-all-points) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
