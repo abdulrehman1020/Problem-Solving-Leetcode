@@ -153,6 +153,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0268-missing-number) |
 | [1395-minimum-time-visiting-all-points](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 ## Binary Search
