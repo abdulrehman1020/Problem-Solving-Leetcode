@@ -136,6 +136,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0001-two-sum) |
+| [0046-permutations](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0049-group-anagrams) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0217-contains-duplicate) |
@@ -203,4 +204,8 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
