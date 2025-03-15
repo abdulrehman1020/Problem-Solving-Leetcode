@@ -159,6 +159,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0268-missing-number) |
 | [1395-minimum-time-visiting-all-points](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 ## Binary Search
@@ -208,4 +209,8 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0046-permutations) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
