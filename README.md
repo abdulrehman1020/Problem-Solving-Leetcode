@@ -122,6 +122,7 @@
 | [0049-group-anagrams](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0242-valid-anagram) |
+| [0680-valid-palindrome-ii](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Sliding Window
 |  |
@@ -211,6 +212,7 @@
 | [0042-trapping-rain-water](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0680-valid-palindrome-ii](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0680-valid-palindrome-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -228,4 +230,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0042-trapping-rain-water) |
+## Greedy
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
