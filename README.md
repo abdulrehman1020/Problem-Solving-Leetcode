@@ -142,6 +142,7 @@
 | [0042-trapping-rain-water](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0217-contains-duplicate) |
@@ -156,6 +157,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0268-missing-number) |
@@ -211,6 +213,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0680-valid-palindrome-ii](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0680-valid-palindrome-ii) |
