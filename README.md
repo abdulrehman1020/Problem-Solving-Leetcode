@@ -124,6 +124,7 @@
 | [0242-valid-anagram](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0242-valid-anagram) |
 | [0680-valid-palindrome-ii](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1894-merge-strings-alternately](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/1894-merge-strings-alternately) |
 ## Sliding Window
 |  |
 | ------- |
@@ -213,6 +214,7 @@
 | [0125-valid-palindrome](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0680-valid-palindrome-ii](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [1894-merge-strings-alternately](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/1894-merge-strings-alternately) |
 ## Backtracking
 |  |
 | ------- |
