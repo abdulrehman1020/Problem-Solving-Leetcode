@@ -108,6 +108,7 @@
 | [0001-two-sum](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0268-missing-number) |
@@ -145,6 +146,7 @@
 | [0088-merge-sorted-array](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0268-missing-number) |
@@ -158,6 +160,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0268-missing-number) |
@@ -183,6 +186,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Geometry
@@ -192,6 +196,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
