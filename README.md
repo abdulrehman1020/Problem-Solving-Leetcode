@@ -140,6 +140,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0049-group-anagrams) |
@@ -158,6 +159,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0169-majority-element) |
@@ -217,6 +219,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0125-valid-palindrome) |
