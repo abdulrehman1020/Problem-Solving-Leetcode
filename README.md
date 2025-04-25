@@ -140,6 +140,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0046-permutations) |
@@ -219,6 +220,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0088-merge-sorted-array) |
@@ -246,5 +248,6 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
