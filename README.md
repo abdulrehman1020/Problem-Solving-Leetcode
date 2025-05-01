@@ -166,6 +166,7 @@
 | [0347-top-k-frequent-elements](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0739-daily-temperatures](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0739-daily-temperatures) |
+| [0792-binary-search](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0883-car-fleet) |
 | [1395-minimum-time-visiting-all-points](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -198,6 +199,7 @@
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0268-missing-number) |
+| [0792-binary-search](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0792-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
