@@ -174,6 +174,7 @@
 | [1395-minimum-time-visiting-all-points](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Sorting
 |  |
@@ -188,6 +189,7 @@
 | [0347-top-k-frequent-elements](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0883-car-fleet](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0883-car-fleet) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Math
 |  |
 | ------- |
@@ -208,6 +210,7 @@
 | [0792-binary-search](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
 |  |
 | ------- |
