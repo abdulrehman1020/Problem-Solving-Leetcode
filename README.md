@@ -163,6 +163,7 @@
 | [0088-merge-sorted-array](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0162-find-peak-element](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0217-contains-duplicate) |
@@ -210,6 +211,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0162-find-peak-element](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0792-binary-search) |
