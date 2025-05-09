@@ -273,6 +273,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0206-reverse-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -299,4 +300,8 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
