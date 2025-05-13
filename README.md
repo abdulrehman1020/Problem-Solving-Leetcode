@@ -175,6 +175,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0739-daily-temperatures](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0792-binary-search) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0883-car-fleet](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1395-minimum-time-visiting-all-points](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/1395-minimum-time-visiting-all-points) |
@@ -194,6 +195,7 @@
 | [0242-valid-anagram](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0883-car-fleet](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0883-car-fleet) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -220,6 +222,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0792-binary-search) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0907-koko-eating-bananas](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -247,6 +250,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -271,6 +275,7 @@
 | [0141-linked-list-cycle](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0680-valid-palindrome-ii](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [1894-merge-strings-alternately](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/1894-merge-strings-alternately) |
 ## Backtracking
 |  |
