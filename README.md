@@ -176,6 +176,7 @@
 | [0739-daily-temperatures](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0792-binary-search) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0883-car-fleet](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1395-minimum-time-visiting-all-points](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/1395-minimum-time-visiting-all-points) |
@@ -223,6 +224,7 @@
 | [0268-missing-number](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0792-binary-search) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
