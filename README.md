@@ -118,6 +118,7 @@
 | [0347-top-k-frequent-elements](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0594-longest-harmonious-subsequence](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## String
 |  |
@@ -141,6 +142,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0594-longest-harmonious-subsequence](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 ## Stack
 |  |
 | ------- |
@@ -176,6 +178,7 @@
 | [0287-find-the-duplicate-number](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0594-longest-harmonious-subsequence](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0739-daily-temperatures](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0792-binary-search) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
@@ -199,6 +202,7 @@
 | [0242-valid-anagram](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0594-longest-harmonious-subsequence](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0883-car-fleet](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0883-car-fleet) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -244,6 +248,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0594-longest-harmonious-subsequence](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Geometry
 |  |
