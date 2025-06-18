@@ -219,6 +219,7 @@
 | [0050-powx-n](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0268-missing-number) |
+| [1013-fibonacci-number](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/1013-fibonacci-number) |
 | [1395-minimum-time-visiting-all-points](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -310,6 +311,7 @@
 | [0050-powx-n](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0206-reverse-linked-list) |
+| [1013-fibonacci-number](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Dynamic Programming
 |  |
@@ -317,6 +319,7 @@
 | [0022-generate-parentheses](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1013-fibonacci-number](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/1013-fibonacci-number) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -366,4 +369,8 @@
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
