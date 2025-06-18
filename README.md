@@ -218,6 +218,7 @@
 | [0012-integer-to-roman](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0231-power-of-two](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/1013-fibonacci-number) |
 | [1395-minimum-time-visiting-all-points](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/1395-minimum-time-visiting-all-points) |
@@ -245,6 +246,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Counting Sort
@@ -311,6 +313,7 @@
 | [0050-powx-n](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Dynamic Programming
