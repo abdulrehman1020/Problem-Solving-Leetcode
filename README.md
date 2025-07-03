@@ -221,6 +221,7 @@
 | [0231-power-of-two](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1395-minimum-time-visiting-all-points](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -323,6 +324,7 @@
 | [0042-trapping-rain-water](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -376,4 +378,5 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
