@@ -170,6 +170,7 @@
 | [0078-subsets](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0090-subsets-ii) |
+| [0118-pascals-triangle](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0162-find-peak-element) |
@@ -333,6 +334,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0042-trapping-rain-water) |
+| [0118-pascals-triangle](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/1236-n-th-tribonacci-number) |
