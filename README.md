@@ -198,6 +198,7 @@
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [3226-minimum-number-game](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/3226-minimum-number-game) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Sorting
 |  |
@@ -217,6 +218,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [3226-minimum-number-game](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/3226-minimum-number-game) |
 ## Math
 |  |
 | ------- |
@@ -280,6 +282,7 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
+| [3226-minimum-number-game](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/3226-minimum-number-game) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -386,6 +389,7 @@
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
+| [3226-minimum-number-game](https://github.com/abdulrehman1020/Problem-Solving-Leetcode/tree/master/3226-minimum-number-game) |
 ## Queue
 |  |
 | ------- |
